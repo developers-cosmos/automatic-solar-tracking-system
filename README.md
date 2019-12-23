@@ -1,4 +1,7 @@
+ <h1>AUTOMATIC SOLAR TRACKING SYSTEM</h1>
+![title](automaticsolartrackingsystem/title.jpg)
  <h2>description</h2>
+ 
 <h3>research behind this</h3>
 <p>We know that the major problem in  our India is scarcity of electricity. For the generation of electricity we are going for renewable energy sources due to this there is a unbalance in eco system.
 So to solve that now a days we are going solar energy but with present technique we are not using solar energy effectively.
