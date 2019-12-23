@@ -1,5 +1,6 @@
  <h1>AUTOMATIC SOLAR TRACKING SYSTEM</h1>
-![title](automaticsolartrackingsystem/title.jpg)
+ 
+![title](soalr tracking sysem/blockdiagram.JPG)
  <h2>description</h2>
  
 <h3>research behind this</h3>
