@@ -17,7 +17,7 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
  ![b](https://user-images.githubusercontent.com/53783352/71421315-1d837a00-26a0-11ea-81df-97ba49535ce8.JPG)
 
  <h3>circuit diagram</h3>
- 
+ ![block](soalr tracking sysem/blockdiagram.JPG)
  
  <h3>components required</h3>
  1.Power supply unit
