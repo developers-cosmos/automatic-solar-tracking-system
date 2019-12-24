@@ -1,5 +1,7 @@
  <h1>AUTOMATIC SOLAR TRACKING SYSTEM</h1>
- ![title](https://user-images.githubusercontent.com/53783352/71420065-1b69ed00-2699-11ea-8d71-e8fdbc12f010.jpg)
+ 
+![title](https://user-images.githubusercontent.com/53783352/71420989-23785b80-269e-11ea-87be-2d12f223b92e.jpg)
+
 
  <h2>description</h2>
  
