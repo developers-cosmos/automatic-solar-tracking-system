@@ -14,8 +14,7 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
  <h3>introduction</p>
  </p>The earth receives 16 x 10^18units of energy from the sun annually. which is 20,000 times the requirement of mankind on the earth.this energy is used by Solar panels to convert light energy into electrical energy.But the existing solar panels are faced to the  single side they can track energy only when sun is in particular direction so the energy in the remaining direction is wastedd so for efficoent usage of solar energy we designed a solar power generation system using moving  solar panel in 180 deg.By this we can track the solar radiations effectively.</p>
  <h3>block diagram</h3>
-![blockdiagram](https://user-images.githubusercontent.com/53783352/71421068-9d104980-269e-11ea-801f-f544137ad0eb.JPG)
-
+ 
  <h3>circuit diagram</h3>
  
  
