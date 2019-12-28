@@ -17,6 +17,9 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
 
  <h3>block diagram</h3>
 ![image](solar tracking system/blockdiagram.jpg)
+<img src="solar trackinh system/blockdiagram.jpg" width="400" height="200">
+
+
 
  <h3>circuit diagram</h3>
  <h3>components required</h3>
