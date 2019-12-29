@@ -8,7 +8,7 @@ So to solve that now a days we are going solar energy but with present technique
 So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
 <h3>problem statemnet</h3>
  <p>Now a days solar cells are becoming extremely popular for utilizing solar energy to use in different ways such as producing electricity,transportation,cooking etc.Many solar panels have been installed all over the world and most of them are stable.They are installed in the direction of maximum radiation of sunlight.Now the problem arises that the sun is moving.so we cannot use maximum radiation of sun all the time.The position of maximum radiation receiving position only comes once in 24 hours.So to avoid that we are came by this project.By this we can focus maximum radiation of sun on solar panel so we can use solar energy efficiently and effectively at reasonale cost</p>
- <h3>introduction</p>
+ <h3>introduction</h3>
  </p>The earth receives 16 x 10^18units of energy from the sun annually. which is 20,000 times the requirement of mankind on the earth.this energy is used by Solar panels to convert light energy into electrical energy.But the existing solar panels are faced to the  single side they can track energy only when sun is in particular direction so the energy in the remaining direction is wastedd so for efficoent usage of solar energy we designed a solar power generation system using moving  solar panel in 180 deg.By this we can track the solar radiations effectively.</p>
  
 
