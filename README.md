@@ -22,6 +22,7 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
 
 
  <h3>circuit diagram</h3>
+ ![image1](block.jpg)
  <h3>components required</h3>
  1.Power supply unit
      <br/>
