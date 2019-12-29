@@ -26,7 +26,7 @@ So we are introducing our project i.e., AUTOMATIC SOLAR TRACKING SYSTEM.</p>
    *stepdown transformer<br/>
    *bridge rectifier<br/>
    *regulator<br/>
-   *rc filter
+   *rc filter<br/>
 2.Atmel AT89S52
 <br/>
 3.Driver ic (l293d)
